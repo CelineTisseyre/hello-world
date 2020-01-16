@@ -1,4 +1,5 @@
-#hello
+#!/home/campus-10/anaconda3/bin/python
+
 
 import myname
 
